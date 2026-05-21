@@ -1,3 +1,3 @@
 # teste-conflito
 
-Texto modificado diretamente na main.
+Texto modificado pelo eclipse, parte 2.
