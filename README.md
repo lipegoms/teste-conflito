@@ -1,4 +1,3 @@
 # teste-conflito
 
-Texto modificado pelo eclipse.
-Texto modificado pelo GitHub.
+Texto modificado pelo eclipse, parte 2.
